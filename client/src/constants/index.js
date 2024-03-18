@@ -1,0 +1,1 @@
+export const server = "http://192.168.98.99:5000/api/v1/user";
